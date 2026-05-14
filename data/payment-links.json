@@ -1,0 +1,42 @@
+[
+  {
+    "tier": 1,
+    "label": "First Light",
+    "amount": 7900,
+    "productId": "prod_UW2oCiAcirmw3V",
+    "priceId": "price_1TX0iODziywAg0f6PnAY4enD",
+    "url": "https://buy.stripe.com/dRm6oH19r6qi44cbuVfrW0a"
+  },
+  {
+    "tier": 2,
+    "label": "Charter",
+    "amount": 9900,
+    "productId": "prod_UW2o8eyItieupX",
+    "priceId": "price_1TX0iQDziywAg0f6nYFUDUx0",
+    "url": "https://buy.stripe.com/5kQ3cv2dv5me7goeH7frW0b"
+  },
+  {
+    "tier": 3,
+    "label": "Captain",
+    "amount": 12900,
+    "productId": "prod_UW2oU6ZPOeHvZO",
+    "priceId": "price_1TX0iRDziywAg0f6JHFmKoTU",
+    "url": "https://buy.stripe.com/cNieVd8BTaGy3081UlfrW0c"
+  },
+  {
+    "tier": 4,
+    "label": "Reserve",
+    "amount": 16900,
+    "productId": "prod_UW2oRbhSd4fgYy",
+    "priceId": "price_1TX0iSDziywAg0f612rlJ4of",
+    "url": "https://buy.stripe.com/6oU6oHf0heWO0S0aqRfrW0d"
+  },
+  {
+    "tier": 5,
+    "label": "Sentinel",
+    "amount": 19900,
+    "productId": "prod_UW2odKpR12M87f",
+    "priceId": "price_1TX0iTDziywAg0f6RotShiN3",
+    "url": "https://buy.stripe.com/dRm7sL19rdSK0S08iJfrW0e"
+  }
+]
