@@ -3,3 +3,7 @@ node_modules/
 *.log
 .env
 .env.local
+video/walkthrough/node_modules/
+video/walkthrough/renders/
+video/walkthrough/fonts/Fraunces.woff2
+video/walkthrough/fonts/Inter.woff2

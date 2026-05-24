@@ -102,10 +102,19 @@ tailwind.config = {
 
 <section class="bg-surface border-y border-[#141414]">
   <div class="max-w-6xl mx-auto px-6 py-20">
-    <h2 class="font-display text-3xl md:text-4xl font-semibold mb-12 text-center">See it in 30 seconds</h2>
+    <h2 class="font-display text-3xl md:text-4xl font-semibold mb-12 text-center">See it in 45 seconds</h2>
     <div class="grid md:grid-cols-3 gap-6">
-      <div class="aspect-[9/16] bg-ink border border-[#1f1f1f] rounded-2xl flex items-center justify-center text-muted text-sm text-center px-6">
-        Walkthrough deck<br><span class="text-xs">(video drops soon)</span>
+      <div class="aspect-[9/16] bg-ink border border-[#1f1f1f] rounded-2xl overflow-hidden">
+        <video
+          src="/assets/walkthrough.mp4"
+          poster="/assets/walkthrough-poster.jpg"
+          autoplay
+          muted
+          loop
+          playsinline
+          preload="metadata"
+          class="w-full h-full object-cover"
+        ></video>
       </div>
       <div class="aspect-[9/16] bg-ink border border-[#1f1f1f] rounded-2xl flex items-center justify-center text-muted text-sm text-center px-6">
         Founder pitch deck<br><span class="text-xs">(video drops soon)</span>
